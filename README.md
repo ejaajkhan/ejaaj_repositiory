@@ -1,1 +1,2 @@
-# ejaaj_repositiory
+# ejaaj_repositiory 
+author - ejaaj khan
